@@ -31,15 +31,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,npm,py,js,ts,express,cpp,java,spring,hibernate,kafka,mysql,mongodb,postgresql,dynamodb,elasticsearch,docker,aws" />
 </div>
 
-<br/>
-<hr/>
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jeandobre/jeandobre/output/github-contribution-grid-snake.svg" />
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
