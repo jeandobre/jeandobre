@@ -23,7 +23,7 @@
 </div>
 <hr/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jeandobre&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeandobre&theme=dark&short_numbers=true)](https://git.io/streak-stats)
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
