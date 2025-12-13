@@ -23,7 +23,7 @@
 </div>
 <hr/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeandobre&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeandobre)](https://github.com/ashutosh00710/github-readme-activity-graph)
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
