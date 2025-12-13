@@ -23,7 +23,7 @@
 </div>
 <hr/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeandobre&bg_color=68abdf&color=e7f8f8&line=d6f7ff&point=476fe6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeandobre&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
